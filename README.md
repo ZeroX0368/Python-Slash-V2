@@ -1,4 +1,4 @@
 # Python-Slash-V2
 # Preview
 
-![img](/ss/https://cdn.discordapp.com/attachments/1335597135202353224/1378265689319538728/Screenshot_20250531-135508_Discord.jpg?ex=683bf973&is=683aa7f3&hm=25ff39e6e28d482a71f6e2e08584c10f8f6651d1fa6a5e69c835cf750b4f478c&)
+![img](https://cdn.discordapp.com/attachments/1335597135202353224/1378265689319538728/Screenshot_20250531-135508_Discord.jpg?ex=683bf973&is=683aa7f3&hm=25ff39e6e28d482a71f6e2e08584c10f8f6651d1fa6a5e69c835cf750b4f478c&)
